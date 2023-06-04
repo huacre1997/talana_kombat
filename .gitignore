@@ -1,0 +1,25 @@
+# Archivos de caché y compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos generados por herramientas y entornos de desarrollo
+.idea/
+.vscode/
+*.egg-info/
+dist/
+build/
+*.pyc
+*.pyo
+*.pyd
+*.swp
+
+# Entornos virtuales
+venv/
+env/
+
+# Otros archivos y directorios generados
+.DS_Store
+*.bak
+*.log
